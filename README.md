@@ -26,3 +26,4 @@
 ![Alt text](/Challenge-5/Assets/05-third-party-apis-homework-demo.gif)
 
 ## Deployed application
+[APPLICATION](https://www.example.com)
